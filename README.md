@@ -5,6 +5,20 @@
 npm install
 ```
 
+
+## Project Description
+```
+Little Monster game with using Vue 3 
+```
+
+
+## Project Deployment
+```
+https://monsterr-app.herokuapp.com/
+```
+
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
